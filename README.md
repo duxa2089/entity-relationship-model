@@ -1,1 +1,1 @@
-# entity-relationship-model
+# entity-relationship-models
